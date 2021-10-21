@@ -1,16 +1,14 @@
-<h1 align="center">Planner for the Day</h1>
+<h1 align="center">Planner</h1>
 
 <!-- TABLE OF CONTENTS -->
 
-## 🔥 Table of Contents
+## Table of Contents
 
-- [Built With](#built-with)
+- [Tech Stack](#tech-stack)
 - [Features](#features)
-- [How to use](#how-to-use)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Running](#running)
 
-## Built With
+## Tech Stack
 
 - [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [Nextjs](https://nextjs.org/)
@@ -23,7 +21,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
-## How To Use
+## Running
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -42,17 +40,3 @@ $ npm run dev
 
 # Visit http://localhost:3000/
 ```
-
-## Acknowledgements
-
-- [React DnD - Sortable simple](https://react-dnd.github.io/react-dnd/examples/sortable/simple)
-- [Next.js examples - GitHub](https://github.com/vercel/next.js/tree/canary/examples)
-- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
-- [Tailwind CSS For Absolute Beginners](https://medium.com/codingthesmartway-com-blog/tailwind-css-for-absolute-beginners-3e1b5e8fe1a1)
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- GitHub [@freedevsoft](https://github.com/freedevsoft)
-- Gmail [@Michael](mailTo:tkahn0430@gmail.com)

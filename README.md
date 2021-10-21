@@ -10,12 +10,11 @@
 
 ## Tech Stack
 
-- [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Nextjs](https://nextjs.org/)
 - [PostCSS](https://postcss.org/)
 - [React](https://reactjs.org/)
 - [Tailwindcss](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## Features
 

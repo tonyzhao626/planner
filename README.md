@@ -11,9 +11,9 @@
 ## Tech Stack
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
 - [Nextjs](https://nextjs.org/)
 - [PostCSS](https://postcss.org/)
-- [React](https://reactjs.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 
 ## Features
